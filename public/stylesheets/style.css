@@ -1,0 +1,12 @@
+form{
+  margin:30px;
+}
+form input{
+  border-radius:5px;
+  padding: 4px;
+  background-color:#ffe6e6;
+}
+
+form input:hover{
+  background-color:#ffb3b3;
+}
